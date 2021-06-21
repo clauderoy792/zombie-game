@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: ece6f8c0ecdfe9e4f8a3cd1d980168c3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RoomsAtlas_0
+    21300002: RoomsAtlas_1
+    21300004: RoomsAtlas_2
+    21300006: RoomsAtlas_3
+    21300008: RoomsAtlas_4
+    21300010: RoomsAtlas_5
+    21300012: RoomsAtlas_6
+    21300014: RoomsAtlas_7
+    21300016: RoomsAtlas_8
+    21300018: RoomsAtlas_9
+    21300020: RoomsAtlas_10
+    21300022: RoomsAtlas_11
+    21300024: RoomsAtlas_12
+    21300026: RoomsAtlas_13
+    21300028: RoomsAtlas_14
+    21300030: RoomsAtlas_15
+    21300032: RoomsAtlas_16
+    21300034: RoomsAtlas_17
+    21300036: RoomsAtlas_18
+    21300038: RoomsAtlas_20
+    21300040: RoomsAtlas_21
+    21300042: RoomsAtlas_21
+    21300044: RoomsAtlas_22
+    21300046: RoomsAtlas_23
+    21300048: RoomsAtlas_24
+    21300050: RoomsAtlas_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RoomsAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 439
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 439
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 439
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 494
+        width: 9
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 494
+        width: 9
+        height: 5
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 447
+        width: 18
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 440
+        width: 37
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 461
+        width: 1
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 366
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 366
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 366
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 366
+        width: 4
+        height: 53
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 366
+        width: 24
+        height: 53
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 288
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 288
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 503
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 217
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 218
+        width: 124
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 354
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 391
+        width: 26
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 354
+        width: 32
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 360
+        width: 32
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 217
+        width: 128
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RoomsAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 310
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

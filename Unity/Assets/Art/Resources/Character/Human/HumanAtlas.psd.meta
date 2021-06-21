@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 954ac731704f9474cb6ce5a08abbd57a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterAtlas_0
+    21300002: CharacterAtlas_1
+    21300004: CharacterAtlas_2
+    21300006: CharacterAtlas_3
+    21300008: CharacterAtlas_4
+    21300010: CharacterAtlas_5
+    21300012: CharacterAtlas_6
+    21300014: CharacterAtlas_7
+    21300016: CharacterAtlas_8
+    21300018: CharacterAtlas_9
+    21300020: CharacterAtlas_10
+    21300022: CharacterAtlas_11
+    21300024: CharacterAtlas_12
+    21300026: CharacterAtlas_13
+    21300028: CharacterAtlas_14
+    21300030: CharacterAtlas_15
+    21300032: CharacterAtlas_16
+    21300034: CharacterAtlas_17
+    21300036: CharacterAtlas_18
+    21300038: CharacterAtlas_19
+    21300040: CharacterAtlas_20
+    21300042: CharacterAtlas_21
+    21300044: CharacterAtlas_22
+    21300046: CharacterAtlas_23
+    21300048: CharacterAtlas_24
+    21300050: CharacterAtlas_25
+    21300052: CharacterAtlas_26
+    21300054: CharacterAtlas_27
+    21300056: CharacterAtlas_28
+    21300058: CharacterAtlas_29
+    21300060: CharacterAtlas_30
+    21300062: CharacterAtlas_31
+    21300064: CharacterAtlas_32
+    21300066: CharacterAtlas_33
+    21300068: CharacterAtlas_34
+    21300070: CharacterAtlas_35
+    21300072: CharacterAtlas_36
+    21300074: HumanAtlas_37
+    21300076: HumanAtlas_38
+    21300078: HumanAtlas_39
+    21300080: HumanAtlas_40
+    21300082: HumanAtlas_41
+    21300084: HumanAtlas_42
+    21300086: HumanAtlas_43
+    21300088: HumanAtlas_44
+    21300090: HumanAtlas_45
+    21300092: HumanAtlas_46
+    21300094: HumanAtlas_47
+    21300096: HumanAtlas_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharacterAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 223
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 223
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 223
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: .479999989, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 223
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: .458333343, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 224
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 223
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 223
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: .479999989, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: .458333343, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 188
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: .545454562, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 187
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: .545454621, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 187
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: .545454621, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 188
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: .545454621, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 187
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 187
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 207
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 208
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 187
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: .478260875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 191
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: .454545468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 172
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 173
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 166
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: .479999989, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 171
+        width: 24
+        height: 15
+      alignment: 9
+      pivot: {x: .458333313, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 173
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 171
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 171
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 172
+        width: 17
+        height: 14
+      alignment: 9
+      pivot: {x: .470588207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 167
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: .478260905, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 175
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: .454545498, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CharacterAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 17
+        height: 9
+      alignment: 9
+      pivot: {x: .470588207, y: -.555555582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 17
+        height: 10
+      alignment: 9
+      pivot: {x: .470499992, y: -.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: .461538464, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: .461538494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 17
+        height: 10
+      alignment: 9
+      pivot: {x: .469999999, y: -.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 117
+        width: 17
+        height: 9
+      alignment: 9
+      pivot: {x: .470499992, y: -.555555582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 111
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: .461538494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 105
+        width: 12
+        height: 5
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 18
+        height: 11
+      alignment: 9
+      pivot: {x: .527750015, y: -.454545468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 116
+        width: 18
+        height: 10
+      alignment: 9
+      pivot: {x: .472499996, y: -.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 110
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: .461538494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HumanAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 104
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: .461538494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: CharacterAtlas
+  userData: 

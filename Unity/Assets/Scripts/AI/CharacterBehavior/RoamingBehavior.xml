@@ -1,0 +1,12 @@
+﻿<Nodes>
+  <Root Name="Root" UID="" RectX="370" RectY="20" RectWidth="60" RectHeight="60" PosX="400" PosY="50" Parent="-1" ChildNodes="3,7,6" />
+  <Action Name="GoToTarget" UID="" RectX="530" RectY="289" RectWidth="60" RectHeight="60" PosX="560" PosY="319" Parent="6" />
+  <Action Name="RoamingAction" UID="" RectX="639" RectY="289" RectWidth="60" RectHeight="60" PosX="669" PosY="319" Parent="6" />
+  <Sequence Name="Sequence" UID="toiletSeq" RectX="183" RectY="173" RectWidth="60" RectHeight="60" PosX="213" PosY="203" Parent="0" ChildNodes="4,5" />
+  <Action Name="GoToToilet" UID="" RectX="150" RectY="293" RectWidth="60" RectHeight="60" PosX="180" PosY="323" Parent="3" />
+  <Action Name="ToiletAction" UID="" RectX="221" RectY="292" RectWidth="60" RectHeight="60" PosX="251" PosY="322" Parent="3" />
+  <Selector Name="Selector" UID="targetSelector" RectX="559" RectY="169" RectWidth="60" RectHeight="60" PosX="589" PosY="199" Parent="0" ChildNodes="1,2" />
+  <Sequence Name="Sequence" UID="cafeteriaSeq" RectX="370" RectY="170" RectWidth="60" RectHeight="60" PosX="400" PosY="200" Parent="0" ChildNodes="9,8" />
+  <Action Name="EatAction" UID="" RectX="422" RectY="292" RectWidth="60" RectHeight="60" PosX="452" PosY="322" Parent="7" />
+  <Action Name="GoToCafeteria" UID="" RectX="336" RectY="291" RectWidth="60" RectHeight="60" PosX="366" PosY="321" Parent="7" />
+</Nodes>

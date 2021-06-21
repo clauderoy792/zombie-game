@@ -1,0 +1,5 @@
+﻿<Nodes>
+  <Root Name="Root" UID="" RectX="370" RectY="20" RectWidth="60" RectHeight="60" PosX="400" PosY="50" Parent="-1" ChildNodes="2,1" />
+  <Action Name="RoamingAction" UID="" RectX="462" RectY="143" RectWidth="60" RectHeight="60" PosX="492" PosY="173" Parent="0" />
+  <Action Name="GoToTarget" UID="" RectX="338" RectY="148" RectWidth="60" RectHeight="60" PosX="368" PosY="178" Parent="0" />
+</Nodes>

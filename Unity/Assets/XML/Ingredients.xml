@@ -1,0 +1,17 @@
+﻿<Ingredients>
+  <Ingredient Name="Dibutyl" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Siloxanes" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Triclosan" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Petrolatum" Rage="0" Intellect="0" Stench="80" Infectivity="0" />
+  <Ingredient Name="Octyl" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Formaldehyde" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Parabens" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Hemagglutinin" Rage="5" Intellect="2" Stench="35" Infectivity="5" />
+  <Ingredient Name="Glycoprotein" Rage="22" Intellect="14" Stench="3" Infectivity="7" />
+  <Ingredient Name="Ribonuclear" Rage="35" Intellect="15" Stench="5" Infectivity="30" />
+  <Ingredient Name="Creosote" Rage="1" Intellect="0" Stench="2" Infectivity="5" />
+  <Ingredient Name="Deltamethrin" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Methoprene" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Permethrin" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+  <Ingredient Name="Resmethrin" Rage="0" Intellect="0" Stench="0" Infectivity="0" />
+</Ingredients>
